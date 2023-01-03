@@ -600,7 +600,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 
 ## Performance
 * [Performance Optimization on OS, Storage, Database, Network](https://stackify.com/application-performance-metrics/)
-	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898)
+	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898) ✅
 	* [Fixing Linux filesystem performance regressions at LinkedIn](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)
 	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
 	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
