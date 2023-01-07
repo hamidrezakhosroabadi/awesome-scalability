@@ -70,7 +70,8 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Understand Latency](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
 * [Latency Numbers Every Programmer Should Know](http://norvig.com/21-days.html#answers)
 * [The Calculus of Service Availability](https://queue.acm.org/detail.cfm?id=3096459&__s=dnkxuaws9pogqdnxmx8i)
-* [Architecture Issues When Scaling Web Applications: Bottlenecks, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)	
+* [Architecture Issues When Scaling Web Applications: 
+, Database, CPU, IO](http://highscalability.com/blog/2014/5/12/4-architecture-issues-when-scaling-web-applications-bottlene.html)	
 * [Common Bottlenecks](http://highscalability.com/blog/2012/5/16/big-list-of-20-common-bottlenecks.html)
 * [Life Beyond Distributed Transactions](https://queue.acm.org/detail.cfm?id=3025012)
 * [Relying on Software to Redirect Traffic Reliably at Various Layers](https://www.usenix.org/conference/srecon15/program/presentation/taveira)
@@ -602,7 +603,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 * [Performance Optimization on OS, Storage, Database, Network](https://stackify.com/application-performance-metrics/)
 	* [Improving Performance with Background Data Prefetching at Instagram](https://engineering.instagram.com/improving-performance-with-background-data-prefetching-b191acb39898) ✅
 	* [Fixing Linux filesystem performance regressions at LinkedIn](https://engineering.linkedin.com/blog/2020/fixing-linux-filesystem-performance-regressions)) ✅
-	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/)
+	* [Compression Techniques to Solve Network I/O Bottlenecks at eBay](https://www.ebayinc.com/stories/blogs/tech/how-ebays-shopping-cart-used-compression-techniques-to-solve-network-io-bottlenecks/) ✅
 	* [Optimizing Web Servers for High Throughput and Low Latency at Dropbox](https://blogs.dropbox.com/tech/2017/09/optimizing-web-servers-for-high-throughput-and-low-latency/)
 	* [Linux Performance Analysis in 60.000 Milliseconds at Netflix](https://medium.com/netflix-techblog/linux-performance-analysis-in-60-000-milliseconds-accc10403c55)
 	* [Live Downsizing Google Cloud Persistent Disks (PD-SSD) at Mixpanel](https://engineering.mixpanel.com/2018/07/31/live-downsizing-google-cloud-pds-for-fun-and-profit/)
