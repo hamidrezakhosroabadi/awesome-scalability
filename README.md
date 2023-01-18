@@ -862,7 +862,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [Top 10 System Design Interview Questions ](https://hackernoon.com/top-10-system-design-interview-questions-for-software-engineers-8561290f0444)
 	* [Top 10 Common Large-Scale Software Architectural Patterns in a Nutshell](https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013)
 	* [Cloud Big Data Design Patterns - Lynn Langit](https://lynnlangit.com/2017/03/14/beyond-relational/)	
-	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)
+	* [How NOT to design Netflix in your 45-minute System Design Interview?](https://hackernoon.com/how-not-to-design-netflix-in-your-45-minute-system-design-interview-64953391a054)✅
 	* [API Best Practices: Webhooks, Deprecation, and Design](https://zapier.com/engineering/api-best-practices/)
 * [Explaining Low-Level Systems (OS, Network/Protocol, Database, Storage)](https://www.cse.wustl.edu/~jain/cse567-06/ftp/os_monitors/index.html)
 	* [The Precise Meaning of I/O Wait Time in Linux](http://veithen.github.io/2013/11/18/iowait-linux.html)
@@ -876,7 +876,7 @@ An updated and organized reading list for illustrating the patterns of scalable,
 	* [How Spotify Streams Music](https://labs.spotify.com/2018/08/31/smoother-streaming-with-bbr/)
 
 ## Organization
-* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)
+* [Engineering Levels at SoundCloud](https://developers.soundcloud.com/blog/engineering-levels)✅
 * [Engineering Roles at Palantir](https://medium.com/palantir/dev-versus-delta-demystifying-engineering-roles-at-palantir-ad44c2a6e87)
 * [Scaling Engineering Teams at Twitter](https://www.youtube.com/watch?v=-PXi_7Ld5kU)
 * [Scaling Decision-Making Across Teams at LinkedIn](https://engineering.linkedin.com/blog/2018/03/scaling-decision-making-across-teams-within-linkedin-engineering)
